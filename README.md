@@ -1,4 +1,4 @@
-# Biomedical_Q-A_BERT_Model
+# Biomedical_QA_Model (BioBert, BERT, FacebookBERT)
 
 Question answering (QA) is a task that answers factoid
 (what, when, where etc.) questions using a large collection
